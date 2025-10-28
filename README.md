@@ -49,7 +49,7 @@ Seu objetivo é analisar o Desempenho de quatro lojas , identificando métricas 
 <a href="#importing-a-git-repository-with-the-command-line">Faça o Download do arquivo </a>.</p>
 <ol>
 <li>
-<p>No repositório: <span class="platform-mac">Challenge_alura_Store. ipynb</span></p>
+<p>No repositório: <span class="platform-mac">Challenge_AluraStore.ipynb</span></p>
 </li>
 <li><p>Abra o Google Colab: <a href="#importing-a-git-repository-with-the-command-line">https://colab.research.google.com/</a></p></li>
 <li><p>Faça o UPLOAD do Notebook</p></li>
