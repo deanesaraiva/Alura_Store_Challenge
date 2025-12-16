@@ -1,3 +1,4 @@
+<br>
 <img height="500" alt="alura" src="https://github.com/user-attachments/assets/055e00a0-0276-48af-a172-bfa463a0090a" />
 <br></br>
 <h1 tabindex="-1">Alura Store Challenge</h1>
